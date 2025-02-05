@@ -6,10 +6,10 @@ A Simple java calculator application using java **Swing**, GUI toolkit for java.
 ## Screenshots
 ![Calculator-Screenshot](images/calculator-pic.jpg)
 - creator: Paul Nanbal Joseph
-- Matriculation no: U24cs2002
+- Matriculation no: U24CS2002
 - Department: Computer Science
 - Github acc: (https://github.com/YARON-JOE)
 - Github acc: 
-- Calculator repo: [Swing Calculator](https://github.com/iamRed-One/Swing-Calculator-U23CS1019)
+- Calculator repo: https://github.com/YARON-JOE/Swing-Calculator-U24CS2002
 ## Screenshot
 ![Calculator-Picture](./images/calculator-img.png)
