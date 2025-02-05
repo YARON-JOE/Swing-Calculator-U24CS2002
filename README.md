@@ -8,7 +8,8 @@ A Simple java calculator application using java **Swing**, GUI toolkit for java.
 - creator: Paul Nanbal Joseph
 - Matriculation no: U24cs2002
 - Department: Computer Science
-- Github acc: [@IamRed-One](https://github.com/iamRed-One)
+- Github acc: (https://github.com/YARON-JOE)
+- Github acc: 
 - Calculator repo: [Swing Calculator](https://github.com/iamRed-One/Swing-Calculator-U23CS1019)
 ## Screenshot
 ![Calculator-Picture](./images/calculator-img.png)
